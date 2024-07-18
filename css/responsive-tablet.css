@@ -2,10 +2,6 @@
     header {
         justify-content: flex-start;
     }
-
-    .container {
-        max-width: 85%;
-    }
     
     h1 {
         font-size: 3.5rem;

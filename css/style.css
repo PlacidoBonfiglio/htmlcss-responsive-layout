@@ -23,7 +23,7 @@ body {
 }
 
 .container {
-    max-width: 90%;
+    max-width: 700px;
     margin: 0 auto;
 }
 
@@ -129,7 +129,7 @@ iframe {
 }
 
 /* Recipe box */
-.food-box {
+.food-property {
     min-height: 300px;
     background-color: #fff;
     box-shadow: 0 1px 10px lightgrey;
