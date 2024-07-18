@@ -186,9 +186,15 @@ iframe {
     box-shadow: 0 5px 10px lightgrey;
     border-radius: 25px;
     padding: 10px 20px;
+    margin-bottom: 70px;
 }
 
 span.dn {
+    display: none;
+}
+
+/* ADV */ 
+section.dn {
     display: none;
 }
 

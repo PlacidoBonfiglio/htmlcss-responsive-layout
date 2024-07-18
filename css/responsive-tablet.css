@@ -31,4 +31,9 @@
     .brands-link ul li {
         padding: 10px 50px;
     }
+
+    section.adv {
+        display: block;
+        margin-bottom: 100px;
+    }
 }

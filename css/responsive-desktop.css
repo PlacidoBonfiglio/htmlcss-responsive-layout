@@ -9,7 +9,7 @@
 
     .yt-video {
         flex-basis: 70%;
-        height: auto;
+        height: 500px;
     }
 
     .food-box{
@@ -30,5 +30,6 @@
         font-size: 1rem;
         font-weight: 700;
         margin-left: 5px;
+        color: black;
     }
 }
