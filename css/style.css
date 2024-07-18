@@ -36,6 +36,11 @@ body {
     display: none;
 }
 
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
 button {
     font-weight: bold;
     border: none;
@@ -86,7 +91,6 @@ h2 {
 .dessert-rating {
     min-height: 10px;
     justify-content: space-between;
-    margin-bottom: 50px;
 }
 
 .dessert-name {
@@ -137,7 +141,6 @@ iframe {
     min-height: 100px;
     background-color: #F6F5F9;
     padding: 20px;
-    margin-bottom: 50px;
 }
 
 .kcal-info {
@@ -169,6 +172,24 @@ iframe {
 
 .preparation {
     width: 100%;
+}
+
+/* BRANDS LINKS */
+.brands-link ul {
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+.brands-link ul li {
+    font-size: 1.2rem;
+    background-color: #fff;
+    box-shadow: 0 5px 10px lightgrey;
+    border-radius: 25px;
+    padding: 10px 20px;
+}
+
+span.dn {
+    display: none;
 }
 
 

@@ -19,4 +19,8 @@
     .preparation ul {
         display: inline-block;
     }
+
+    .brands-link ul li {
+        padding: 10px 80px;
+    }
 }
