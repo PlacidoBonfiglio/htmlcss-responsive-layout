@@ -2,7 +2,15 @@
     header {
         justify-content: flex-start;
     }
-    
+
+    main {
+        padding: 0 60px;
+    }
+
+    .container {
+        max-width: 760px;
+    }
+
     h1 {
         font-size: 3.5rem;
     }
@@ -34,6 +42,7 @@
 
     section.adv {
         display: block;
+        width: 700px;
         margin-bottom: 100px;
     }
 }

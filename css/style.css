@@ -11,6 +11,10 @@ body {
     max-width: 100%;
 }
 
+main {
+    padding: 0 20px;
+}
+
 /* Utils */ 
 .row {
     display: flex;
@@ -198,14 +202,44 @@ section.dn {
     display: none;
 }
 
+/* PRESENTATION */
+.presentation h2 {
+    color: black;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
 
+.border-presentation {
+    border: 1px solid #FF9614;
+    width: 80px;
+    display: block;
+    margin-bottom: 30px;
+}
 
+.dessert-img {
+    text-align: center;
+}
 
+.img-tiramisu {
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    box-shadow: 0 5px 10px lightgrey;
+    margin-bottom: 20px;
+}
 
+.dessert-description {
+    line-height: 40px;
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin-bottom: 50px;
+}
 
+/* FOOTER */
+footer {
+    min-height: 200px;
+    width: 100%;
+    background-color: #7C69A4;
+    border-bottom: 2px solid white;
 
-
-
-
-
-
+}
