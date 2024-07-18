@@ -24,4 +24,11 @@
     .yt-video {
         height: 450px;
     }
+
+    .preparation ul{
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 50px;
+        row-gap: 10px;
+    }
 }
