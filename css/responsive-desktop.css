@@ -1,3 +1,22 @@
 @media screen and (min-width: 993px) {
-    
+    .container {
+        max-width: 1200px;
+    }
+
+    .tiramisu {
+        display: flex;
+    }
+
+    .yt-video {
+        flex-basis: 65%;
+        height: auto;
+    }
+
+    .food-box{
+        flex-basis: 35%;
+    }
+
+    .preparation ul {
+        display: inline-block;
+    }
 }
