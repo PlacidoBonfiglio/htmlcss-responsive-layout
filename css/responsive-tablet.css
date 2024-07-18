@@ -2,8 +2,26 @@
     header {
         justify-content: flex-start;
     }
+
+    .container {
+        max-width: 80%;
+    }
     
     h1 {
         font-size: 3.5rem;
+    }
+
+    .dn {
+        display: inline-block;
+    }
+
+    .rating p,
+    .rating i,
+    p.rate {
+        font-size: 1.1rem;
+    }
+
+    .yt-video {
+        height: 450px;
     }
 }
