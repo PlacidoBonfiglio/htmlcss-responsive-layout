@@ -200,6 +200,11 @@ span.dn {
 /* ADV */ 
 section.dn {
     display: none;
+    max-width: 100%;
+}
+
+.adv-cc {
+    max-width: 100%;
 }
 
 /* PRESENTATION */

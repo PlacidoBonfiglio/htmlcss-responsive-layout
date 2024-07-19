@@ -42,7 +42,6 @@
 
     section.adv {
         display: block;
-        width: 700px;
-        margin-bottom: 100px;
+        margin: 30px auto;
     }
 }
